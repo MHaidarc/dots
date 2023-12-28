@@ -1,0 +1,14 @@
+nvim/
+tmux/
+cef_user_data/
+Cider/
+dconf/
+discord/
+Electron/
+kde.org/
+pulse/
+session/
+systemd/
+torbrowser/
+whatsapp-for-linux/
+yay/
